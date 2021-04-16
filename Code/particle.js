@@ -2,7 +2,7 @@ import {RANDOM_TEXT} from './visual.js';
 
 
 const FRICTION = 0.86;
-cont COLOR_SPEED = 0.12;
+const COLOR_SPEED = 0.12;
 
 export class Particle {
 	constructor(pos) {
